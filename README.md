@@ -34,6 +34,11 @@ GradeOps is an end-to-end AI system that automates the evaluation of scanned or 
   
 ---
 
+### Deployment
+
+* Render (Backend)
+* Vercel (Frontend)
+
 ## 📂 Project Structure
 
 ```bash
@@ -184,7 +189,7 @@ API_KEY=your_api_key_here
 
 <img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/376d84f4-7aee-4cdf-bf9a-d563e8503d3d" />
 
-demo video link: https://drive.google.com/file/d/1a26Lp3ja04lZ_mbP_xzXWIPCO7FXrPNh/view?usp=sharing
+website link : https://grade-ops-deployment.vercel.app/
 
 
 ## Future Enhancements
