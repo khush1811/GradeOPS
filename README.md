@@ -1,4 +1,4 @@
-#GradeOps – AI-Powered Answer Sheet Evaluation System
+# GradeOps – AI-Powered Answer Sheet Evaluation System
 
 GradeOps is an end-to-end AI system that automates the evaluation of scanned or handwritten answer sheets using OCR and machine learning. It provides a seamless interface for uploading answer sheets, processing them, and viewing evaluation results in an interactive dashboard.
 
