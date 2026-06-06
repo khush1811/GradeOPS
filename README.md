@@ -176,6 +176,17 @@ API_KEY=your_api_key_here
 
 ---
 
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/ae26ac8d-e1af-47fb-b0ea-100f7dd103b0" />
+
+<img width="1915" height="1018" alt="image" src="https://github.com/user-attachments/assets/5f5161d2-23ba-4420-a984-68dac79876bb" />
+
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/281d3365-012c-43f4-875e-9bb0eba4d183" />
+
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/376d84f4-7aee-4cdf-bf9a-d563e8503d3d" />
+
+demo video link: https://drive.google.com/file/d/1a26Lp3ja04lZ_mbP_xzXWIPCO7FXrPNh/view?usp=sharing
+
+
 ## Future Enhancements
 
 * Advanced handwriting recognition
